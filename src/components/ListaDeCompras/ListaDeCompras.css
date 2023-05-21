@@ -1,0 +1,6 @@
+.listaDeCompras {
+    height: 50vh;
+    box-sizing: border-box;
+    overflow: auto;
+    background-color: #8CEDE3;
+}
